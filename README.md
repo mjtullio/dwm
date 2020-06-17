@@ -7,6 +7,7 @@ My build of dwm - dynamic window manager
 * alpha
 * pertag-perseltag
 * centeredmaster
+* fibonacci
 
 **Using:**
 
