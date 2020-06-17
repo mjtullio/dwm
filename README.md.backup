@@ -1,14 +1,12 @@
 # **dwm**
 My build of dwm - dynamic window manager
 
-**Added patches:**
+Added patches:
 
 * fullgaps
 * alpha
 * pertag-perseltag
 * centeredmaster
 
-**Using:**
+I use:
 
-* st
-* dmenu
