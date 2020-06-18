@@ -14,3 +14,4 @@ My build of dwm - dynamic window manager
 
 * st
 * dmenu
+* rofi
