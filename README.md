@@ -10,6 +10,7 @@ My build of dwm - dynamic window manager
 * fibonacci
 * gridmode
 * alternativetags
+* swallow
 
 **Using:**
 
@@ -17,4 +18,10 @@ My build of dwm - dynamic window manager
 * dmenu
 * rofi (alt+shift+p)
 * slock
+
+**Dependencies**
+
+* libxcb (swallow)
+* Xlib-libxcb (swallow)
+* xcb-res (swallow)
 * font awesome (alternativetags)
