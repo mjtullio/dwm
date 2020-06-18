@@ -9,9 +9,11 @@ My build of dwm - dynamic window manager
 * centeredmaster
 * fibonacci
 * gridmode
+* alternativetags
 
 **Using:**
 
 * st
 * dmenu
-* rofi
+* rofi (alt+shift+p)
+* font awesome (alternativetags)
