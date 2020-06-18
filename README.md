@@ -8,6 +8,7 @@ My build of dwm - dynamic window manager
 * pertag-perseltag
 * centeredmaster
 * fibonacci
+* gridmode
 
 **Using:**
 
