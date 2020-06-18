@@ -16,4 +16,5 @@ My build of dwm - dynamic window manager
 * st
 * dmenu
 * rofi (alt+shift+p)
+* slock
 * font awesome (alternativetags)
