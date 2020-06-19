@@ -12,6 +12,7 @@ My build of dwm - dynamic window manager
 * alternativetags
 * swallow
 * scratchpad
+* cyclelayouts
 
 **Using:**
 
