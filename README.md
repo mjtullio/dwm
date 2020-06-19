@@ -11,6 +11,7 @@ My build of dwm - dynamic window manager
 * gridmode
 * alternativetags
 * swallow
+* scratchpad
 
 **Using:**
 
@@ -19,7 +20,7 @@ My build of dwm - dynamic window manager
 * rofi (alt+shift+p)
 * slock
 
-**Dependencies**
+**Dependencies:**
 
 * libxcb (swallow)
 * Xlib-libxcb (swallow)
