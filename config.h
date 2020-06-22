@@ -15,13 +15,14 @@ static const char normfgcolor[]           = "#eeeeee";
 static const char selfgcolor[]            = "#eeeeee";
 static const char selbordercolor[]        = "#BD93F9"; //selected window
 static const char selbgcolor[]            = "#BD93F9"; //selected tag
+static const char whitecolor[]            = "#FFFFFF";
 static const unsigned int baralpha = 0xd0;
 static const unsigned int borderalpha = OPAQUE;
 static const char *colors[][3] = {
        /*               fg           bg           border   */
        [SchemeNorm] = { normfgcolor, normbgcolor, normbordercolor },
        [SchemeSel]  = { selfgcolor,  selbgcolor,  selbordercolor  },
-       [SchemeTitle]  = { selbordercolor, normbgcolor, selbordercolor },
+       [SchemeTitle]  = { whitecolor, normbgcolor, selbordercolor },
 
 };
 static const unsigned int alphas[][3]      = {
