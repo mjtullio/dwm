@@ -13,6 +13,7 @@ My build of dwm - dynamic window manager
 * swallow
 * scratchpad
 * cyclelayouts
+* titlecolor
 
 **Using:**
 
